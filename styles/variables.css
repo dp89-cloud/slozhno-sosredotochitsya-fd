@@ -11,6 +11,7 @@
   --section-text-color: #F1B2CE;
   --margin-inline-main: 10px;
   --main-text-size: 18px;
+  --decorative-elements-color: #FF0070;
 }
 
 @media (min-width: 768px) {
