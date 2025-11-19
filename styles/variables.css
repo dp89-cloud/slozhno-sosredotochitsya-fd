@@ -1,4 +1,21 @@
 /*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
+  Переменные для вашего проекта и их переопределение под различные устройства
 */
+:root {
+  --page-bg-color: #000028;
+  --page-bg-image: url(../images/cover-image.png);
+  --page-p-text-color: #000028;
+  --accent-color: #FF0070;
+  --main-page-text-color: #DB00FF;
+  --main-page-bottom-border: rgba(255,0,112, 0.4);
+  --section-text-color: #F1B2CE;
+  --margin-inline-main: 10px;
+  --main-text-size: 18px;
+}
+
+@media (min-width: 768px) {
+  :root {
+    --margin-inline-main: 20px;
+  }
+}
+
