@@ -10,7 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --page-bg-color: #FFEEF6;
-  --page-bg-image: none;
+  --page-bg-image: url(../images/cover-image-light.png);
   --page-p-text-color:  #353430;
   --accent-color: #FF8DCB;
   --main-page-text-color: #ffc2e6;
@@ -30,7 +30,7 @@
 @media (prefers-color-scheme: light) {
   :root {
   --page-bg-color: #FFEEF6;
-  --page-bg-image: none;
+  --page-bg-image: url(../images/cover-image-light.png);
   --page-p-text-color:  #353430;
   --accent-color: #FF8DCB;
   --main-page-text-color: #ffc2e6;

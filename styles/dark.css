@@ -10,7 +10,7 @@
     чем стили в медиазапросе предпочтений пользователя
   */
   --page-bg-color: #000028;
-  --page-bg-image: url(../images/cover-image.png);
+  --page-bg-image: url(../images/cover-image-dark.png);
   --page-p-text-color: #000028;
   --accent-color: #FF0070;
   --main-page-text-color: #DB00FF;
@@ -18,7 +18,3 @@
   --section-text-color: #F1B2CE;
   --decorative-elements-color: #FF0070;
 }
-
-
-
-
